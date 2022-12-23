@@ -1,0 +1,27 @@
+/* css styles */
+
+
+/* justificar el texto */ 
+p, ul, ol {
+  text-align: justify; }    
+  
+  
+.rojo {
+  color: red;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.importante {
+  color: red;
+  background-color: yellow;
+}
+
+
+/* Whole document: */
+body{
+  font-family: Helvetica;
+  font-size: 16pt;
+}
